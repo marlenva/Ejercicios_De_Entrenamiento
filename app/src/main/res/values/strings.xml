@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ejercicios De Entrenamiento</string>
+    <string name="ejercicio1">Flexiones</string>
+    <string name="ejercicio2">Sentadillas</string>
+    <string name="ejercicio3">Plancha lateral</string>
+    <string name="ejercicio4">Zancadas</string>
+    <string name="ejercicio5">Burpees</string>
+    <string name="ejercicio6">Abdominales</string>
+    <string name="ejercicio7">Saltos de tijera</string>
+    <string name="ejercicio8">Elevación de talones</string>
+    <string name="ejercicio9">Dominadas</string>
+    <string name="ejercicio10">Elevación de piernas</string>
+    <string name="ejercicio11">Plancha</string>
+    <string name="ejercicio12">Mountain climbers</string>
+    <string name="descripcion1">* 4 series de 8 a 12 flexiones</string>
+    <string name="descripcion2">* 5 series de 14 a 16 repeticiones</string>
+    <string name="descripcion3">* 4 series de 30 segundos por cada lado </string>
+    <string name="descripcion4">* 5 series de 10 repeticiones por cada pierna </string>
+    <string name="descripcion5">* 3 series de 10 repeticiones </string>
+    <string name="descripcion6">* 4 series de 8 repeticiones </string>
+    <string name="descripcion7">* 3 series de 15 repeticiones </string>
+    <string name="descripcion8">* 3 series de 8 repeticiones </string>
+    <string name="descripcion9">* 4 series de 8 repeticiones </string>
+    <string name="descripcion10">* 4 series de 12 repeticiones </string>
+    <string name="descripcion11">* 3 repeticiones de un minuto </string>
+    <string name="descripcion12">* 4 series de 30 segundos </string>
+</resources>
